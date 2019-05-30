@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Twishort
+
+  Created by TMH on 20.04.15.
+  Copyright (c) 2015 TMH. All rights reserved.
+*/
+
+"ERROR TITLE" = "Fail 😭";
+"ERROR NO ACCOUNT" = "Account\nis inaccessible.\nChange in\n\"Settings\" → \"Twitter\"";
+"ERROR AUTHORIZE" = "Authorization in Twitter failed";
+"ERROR AVATAR" = "Can't load avatar";
+"ERROR USER INFO" = "Can't get user info";
+"ERROR SHARE DUPLICATE" = "Tweet is duplicated";
+"ERROR TWISHORT AUTH" = "Authorization in Twishort failed";
+"ERROR TWISHORT SHARE" = "Post in Twishort failed";
+"ERROR POST" = "Can't post a tweet";
+"ERROR TWISHORT SIGN" = "Can't sign a tweet";
+"ERROR RATE LIMIT" = "Too many tweets. Try again later";
+"ERROR LONG TIME" = "Long waiting";
+"ERROR SAVE PHOTO" = "Fail to save photo";
+"ERROR SAVE VIDEO" = "Fail to save video";
+"ERROR SAVE VIDEO INCOMPATIBLE" = "Video incompatible to photos album";
+"ERROR PERMISSION" = "Permission Denied";
+"ERROR PHOTO LIBRARY" = "Please allow to access your photo and videos in settings panel of your device";
+"ERROR GEO UNAUTHORIZED" = "Can't get location.\nTurn on \"Settings\" → \"Privacy\" → \"Location Services\"";
+"ERROR GEO FAIL" = "Can't get location";
+"ERROR GEO PLACES" = "Can't get places for location";
+
+"NOT SIGNED IN" = "not signed in";
+"PASTE" = "Paste";
+"DONE" = "Done";
+"LOGOUT" = "Logout";
+"APP TITLE" = "Twishort";
+"POSTED" = "Tweet posted successfully";
+"CANCEL" = "Cancel";
+"LOGOUT" = "Logout";
+"REMOVE" = "Remove";
+"HIDE_" = "Hide ";
+"HIDE" = "Hide";
+"AUTH TITLE" = "Authorization";
+"OPEN TWITTER" = "Open Twitter";
+"OPEN TWISHORT" = "Open Twishort";
+"OPEN SUPPORT" = "Support";
+"SELECT ACCOUNT" = "Select account";
+"OPEN LIBRARY" = "Photo & Video";
+"CLEAR IMAGE" = "Clear Image";
+"TITLE IMAGE" = "can use with 90 characters tweet only";
+"RATE" = "If you like this app,\nplease rate it";
+"YES" = "Yeah";
+"NO" = "No, thanks";
+"SET" = "Set";
+"SHOW" = "Show tweet";
+"PLACEHOLDER" = "Your long tweet here ...";
+"ADD TITLE" = "Title";
+"ADD GEO" = "Place";
+"LOCATION" = "Place";
+"LOCATION SEARCHING" = "Place searching ...";
+"LOCATION NOT FOUND" = "Place undefined";
+"CHOOSE BACKGROUND" = "Set background?";
+"PRIVACY" = "Privacy";
+"PRIVACY PHOTO" = "Need to grant photo library access in \"Settings\" → \"Privacy\" → \"Photos\"";
+"ASK ACCOUNT" = "Relogin before send";
+"TWITTER LIMITS" = "Twitter";
+"TWITTER LIMITS VIDEO" = "Video duration should be between 0.5 seconds and 30 seconds.\nFile size should not exceed 15 mb.";

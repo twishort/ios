@@ -1,0 +1,10 @@
+/* 
+  Style.strings
+  Twishort
+
+  Created by TMH on 20.04.15.
+  Copyright (c) 2015 TMH. All rights reserved.
+*/
+
+"ColorTint" = "#0ea0ff"; //168BFF
+"ColorText" = "#fefbf7";

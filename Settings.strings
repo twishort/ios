@@ -1,0 +1,16 @@
+/* 
+  Settings.strings
+  Twishort
+
+  Created by TMH on 23.04.15.
+  Copyright (c) 2015 TMH. All rights reserved.
+*/
+
+"UrlTwitter" = "https://twitter.com";
+"UrlTwishort" = "http://twishort.com";
+"UrlTwitterUsername" = "https://twitter.com/%@";
+"UrlTwishortUsername" = "http://twishort.com/user/%@";
+"UrlSupport" = "https://twishort.com/help";
+
+"SizeMax" = "720";
+"FailInterval" = "60";
